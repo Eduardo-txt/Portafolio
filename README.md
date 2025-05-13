@@ -37,7 +37,7 @@ int main()
 }
 ~~~
 ### METAS PROFESIONALES
--Aprender mas lenguajes de programcion interesantes
+-Aprender mas lenguajes de programacion interesantes
 -Ser cada vez mas rapido y eficaz al programar
 ### Tecnologias favoritas
 -Realidad virtual
